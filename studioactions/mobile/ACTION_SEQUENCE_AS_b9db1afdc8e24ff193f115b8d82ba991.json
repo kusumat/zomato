@@ -1,0 +1,24 @@
+{
+    "ACTION_SEQUENCE_AS_b9db1afdc8e24ff193f115b8d82ba991": {
+        "id": "ACTION_SEQUENCE_AS_b9db1afdc8e24ff193f115b8d82ba991",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "contextObj": {
+            "name": "loginForm",
+            "type": "forms",
+            "platform": "",
+            "KUID": "905ec64f9fd64849b36104b742099c3a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___ef05da9f6a574a5f8b8f4b96815f8196",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "loginPostShow",
+            "display": "loginPostShow",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "source": "module"
+        }]
+    }
+}

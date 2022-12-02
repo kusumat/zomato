@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "15%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "68.58%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sef57ccaacf14f70a07b7c3c7000db51",
+    "_text_": "Button",
+    "_top_": {
+        "type": "string",
+        "value": "24.94%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "21%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": false,
+    "focusskin": "sac2823db6ef475aa4c1568f81551af0",
+    "id": "reviewBtn",
+    "info": null,
+    "isvisible": true,
+    "kuid": "3bf8142b51c04e2b8ec39047d417a3e8",
+    "name": "kony.ui.Button",
+    "parent": "quickMenuFlex",
+    "pf": "homeForm",
+    "wType": "Button",
+    "zindex": 1
+}

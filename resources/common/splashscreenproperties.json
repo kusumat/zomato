@@ -1,0 +1,59 @@
+{
+    "splashScreen": {
+        "desktop": {
+            "desktopweb": {},
+            "kiosk": {}
+        },
+        "mobile": {
+            "android": {
+                "backgroundColor": "ff0000"
+            },
+            "iphone": {
+                "splashConfig": {
+                    "children": [
+                        {
+                            "UIElementType": "imageUIElement",
+                            "contentMode": "scaleToFill",
+                            "height": "100%",
+                            "left": "0dp",
+                            "source": "zomato2.png",
+                            "top": "0dp",
+                            "visible": true,
+                            "width": "100%"
+                        }
+                    ],
+                    "skin": {
+                        "backgroundColor": "7e7e7e00"
+                    }
+                }
+            },
+            "showLoadingIndicator": false,
+            "spa": {
+                "backgroundColor": "f20000"
+            },
+            "spaan": {},
+            "spaip": {},
+            "spawinphone8": {},
+            "splashImage": "zomato2.png",
+            "winphone8": {}
+        },
+        "tablet": {
+            "android": {},
+            "ipad": {
+                "landscape": {},
+                "splashConfig": {
+                    "children": [],
+                    "skin": {
+                        "backgroundColor": "7e7e7e00"
+                    }
+                }
+            },
+            "spa": {},
+            "spaandroidtablet": {},
+            "spaipad": {},
+            "spawindowstablet": {},
+            "windows10": {},
+            "windows8": {}
+        }
+    }
+}

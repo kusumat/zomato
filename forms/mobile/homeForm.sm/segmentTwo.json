@@ -1,0 +1,145 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "collectionsImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "coll1.png"
+            },
+            "collectionsLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Trending this Week"
+            }
+        },
+        {
+            "collectionsImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "coll2.png"
+            },
+            "collectionsLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Newly Opened"
+            }
+        },
+        {
+            "collectionsImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "coll3.png"
+            },
+            "collectionsLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Regional Favorites"
+            }
+        },
+        {
+            "collectionsImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "coll4.png"
+            },
+            "collectionsLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Rooftops"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "60%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "95%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "03",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segmentTwo",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "f5d304d9d85f4e61bb9ee12f53dde539",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": false,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom",
+        "vdistance": 1
+    },
+    "parent": "detailsFlex",
+    "pf": "homeForm",
+    "retainselection": false,
+    "rowTemplateId": "1d83abf53cf84971b4e2e33d575e444e",
+    "rowcounter": 3,
+    "rowfocusskin": "s8239e35a3684d009ad2ab75a611a4bb",
+    "rowskin": "sfe176c928094523879312d3dc7fa751",
+    "rowtemplate": "collectionsFlex",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "sd228d9239a14ba5ad6f2ec746f74920",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "64646400",
+    "separatorrequired": true,
+    "separatorthickness": 4,
+    "showscrollbars": false,
+    "swipeContext": {
+        "currentPage": 0,
+        "imageWidth": 480,
+        "widthRatio": 0
+    },
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "FlexContainer03282b4b7614b4d": "FlexContainer03282b4b7614b4d",
+        "collectionsFlex": "collectionsFlex",
+        "collectionsImg": "collectionsImg",
+        "collectionsLbl": "collectionsLbl"
+    },
+    "zindex": 1
+}

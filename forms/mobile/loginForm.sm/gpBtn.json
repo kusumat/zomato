@@ -1,0 +1,51 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_enabled_": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "13dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_parentReadjusting_": false,
+    "_skin_": "sd6a7d62f44a450891bbe300866f8ce3",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "52dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "140dp"
+    },
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": false,
+    "focusskin": "sac2823db6ef475aa4c1568f81551af0",
+    "id": "gpBtn",
+    "info": null,
+    "isvisible": true,
+    "kuid": "efe7c15b4f104794a1dafc938d448174",
+    "name": "kony.ui.Button",
+    "parent": "bottomLogin",
+    "pf": "loginForm",
+    "wType": "Button",
+    "zindex": 1
+}

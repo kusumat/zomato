@@ -1,0 +1,93 @@
+{
+    "android": {
+        "font_name": "default",
+        "font_size": 100,
+        "font_weight": "bold",
+        "isForked": true,
+        "wType": "Label"
+    },
+    "background_color": "00000000",
+    "bg_type": "one",
+    "border_color": "424242ff",
+    "border_style": "plain",
+    "border_type": 0,
+    "border_width": 0,
+    "desktopweb": {
+        "font_size": 100,
+        "isForked": false,
+        "wType": "Label"
+    },
+    "fontSizeInPx": false,
+    "font_color": "424242ff",
+    "font_name": "Helvetica",
+    "font_size": 100,
+    "font_style": "normal",
+    "font_weight": "bold",
+    "ipad": {
+        "font_size": 100,
+        "isForked": false,
+        "wType": "Label"
+    },
+    "iphone": {
+        "font_size": 100,
+        "isForked": false,
+        "wType": "Label"
+    },
+    "isDefaultSkin": false,
+    "kiosk": {
+        "font_size": 100,
+        "isForked": false,
+        "wType": "Label"
+    },
+    "kuid": "sc0f20a66c544c1197c50bd64c597f35",
+    "spaan": {
+        "font_size": 100,
+        "isForked": false,
+        "wType": "Label"
+    },
+    "spaandroidtablet": {
+        "font_size": 100,
+        "isForked": false,
+        "wType": "Label"
+    },
+    "spaip": {
+        "font_size": 100,
+        "isForked": false,
+        "wType": "Label"
+    },
+    "spaipad": {
+        "font_size": 100,
+        "isForked": false,
+        "wType": "Label"
+    },
+    "spawindowstablet": {
+        "font_size": 100,
+        "isForked": false,
+        "wType": "Label"
+    },
+    "spawinphone8": {
+        "font_size": 100,
+        "isForked": false,
+        "wType": "Label"
+    },
+    "tabrcandroid": {
+        "font_size": 100,
+        "isForked": false,
+        "wType": "Label"
+    },
+    "wType": "Label",
+    "watchos": {
+        "font_size": 100,
+        "isForked": false
+    },
+    "windows8": {
+        "font_size": 100,
+        "isForked": false,
+        "wType": "Label"
+    },
+    "winphone8": {
+        "font_size": 100,
+        "isForked": false,
+        "wType": "Label"
+    }
+}

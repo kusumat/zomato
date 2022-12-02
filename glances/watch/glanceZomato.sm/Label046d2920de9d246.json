@@ -1,0 +1,63 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": 0,
+    "_lines_": 1,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_opacity_": 100,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s5e033b9fbcc44febda8e12e02f13af0",
+    "_text_": "Meet us at Taj Deccan, 13th Dec, Sunday. ",
+    "_top_": 0,
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "Label046d2920de9d246",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "453fbc510ebd4229aaa1fdf37963feb9",
+    "minscale": 100,
+    "name": "kony.ui.Label",
+    "paddinginpixel": true,
+    "parent": "upperGroup",
+    "pf": "glanceZomato",
+    "tooltip": "",
+    "wType": "Label",
+    "widgetalignment": 1
+}

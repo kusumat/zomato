@@ -1,0 +1,29 @@
+{
+    "AS_WatchDynamicNotificationForm_71e66e367a464b0b96abad9dcd1231cd": {
+        "id": "AS_WatchDynamicNotificationForm_71e66e367a464b0b96abad9dcd1231cd",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "FormController",
+            "name": "form"
+        }, {
+            "datatype": "[NSObject: AnyObject]",
+            "name": "dict"
+        }, {
+            "datatype": "((WKUserNotificationInterfaceType) -> Void)",
+            "name": "completionHandler"
+        }],
+        "contextObj": {
+            "name": "notiZomato",
+            "type": "notifications",
+            "KUID": "9faf0aed41dc4333a84542d34c81da16"
+        },
+        "language": "swift",
+        "actions": [{
+            "id": "ADD_SNIPPET__4fab178ca0504fc58e78d89bc9f03958",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "\t\tprint(\"This is remote notification\");\n        var remoteNotification = dict as? [NSString: AnyObject];\n        if(remoteNotification != nil){\n            var aps = remoteNotification![\"aps\"] as? [String: AnyObject];\n            if(aps != nil){\n                form.lblDyn1.setText(aps![\"lblDyn1\"] as? String);\n                form.lblDyn2.setText(aps![\"lblDyn2\"] as? String);\n                form.lblDyn3.setText(aps![\"lblDyn3\"] as? String);\n            }\n        }\n\t\tcompletionHandler(.Custom);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

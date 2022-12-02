@@ -1,0 +1,53 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_enabled_": false,
+    "_height_": {
+        "type": "string",
+        "value": "45dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5.04%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        7,
+        0,
+        0,
+        0
+    ],
+    "_parentReadjusting_": false,
+    "_render_": true,
+    "_skin_": "sc5e2ac412254bf7b7f96da8254bd2d7",
+    "_text_": "Online Orders",
+    "_top_": {
+        "type": "string",
+        "value": "37dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "containerweight": 100,
+    "contentalignment": 4,
+    "displaytext": true,
+    "focusskin": "sbcdcd898d8b421b843de79e78496633",
+    "id": "CopyButton00dbd986befae48",
+    "info": null,
+    "isvisible": true,
+    "kuid": "9fd87dba26794d88ab2ccae3d9bcc3fd",
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "abtUsFlex0c71c5832a7d94d",
+    "pf": "homeForm",
+    "wType": "Button",
+    "widgetalignment": 5
+}

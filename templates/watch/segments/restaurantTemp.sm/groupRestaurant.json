@@ -1,0 +1,55 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizGroup",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_opacity_": 100,
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s4dfc2a343c244389ca2ed56b2befe66",
+    "_spacing_": 2,
+    "_width_": "100%",
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "imageRestaurantTemp",
+        "labelNameTemp",
+        "groupRatingTemp",
+        "labelAddressTemp",
+        "mapTemp",
+        "groupFoodTypeTemp",
+        "groupCostTemp"
+    ],
+    "clipbounds": true,
+    "containerId": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "groupRestaurant",
+    "info": null,
+    "isSegmentChild": false,
+    "isTemplate": true,
+    "isvisible": true,
+    "kuid": "4274f0c529e041ba8146867c0d2a16c7",
+    "layouttype": 4,
+    "name": "kony.ui.Group",
+    "parent": "restaurantTemp",
+    "pf": "restaurantTemp",
+    "snapgridsize": 10,
+    "snaptogrid": false,
+    "wType": "Group",
+    "widgetalignment": 1
+}

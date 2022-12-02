@@ -1,0 +1,27 @@
+{
+    "AS_Form_0232fc4d9b4b462d96673050054beb48": {
+        "id": "AS_Form_0232fc4d9b4b462d96673050054beb48",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "FormController",
+            "name": "form"
+        }, {
+            "datatype": "AnyObject?",
+            "name": "context"
+        }],
+        "contextObj": {
+            "name": "frmHome",
+            "type": "forms",
+            "platform": "",
+            "KUID": "866fdea474574578b5ebb2542789bc96"
+        },
+        "language": "swift",
+        "actions": [{
+            "id": "ADD_SNIPPET__e7c2a9e59acb4bf1a97c10bb8208f93d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "        let nRows = homeListData.count;\n        form.tab1.setNumberOfRows(nRows, withRowType:\"homeSegTemp\");\n        \n        var row:AnyObject?;\n        let redColor = UIColor.redColor();\n        \n        for index in 0...nRows-1{\n            row = form.tab1.rowControllerAtIndex(index);\n            //print(\" rowController at \\(index): \\(row)\");\n            row!.labelTemp!.setText(homeListData[index][\"title\"]);\n            row!.imageTemp!.setImageNamed(homeListData[index][\"image\"]);\n            row!.groupTemp!.setBackgroundColor(redColor);\n        }",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

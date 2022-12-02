@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "7%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "120%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sade87cda603455499e795edde47c766",
+    "_text_": "Skip Login",
+    "_top_": {
+        "type": "string",
+        "value": "3%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "40%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sff140b99d714350b9cc64e35e368b14",
+    "id": "skipBtn",
+    "ide_onclick": "AS_Button_14e28b275b484ebfa1c71a9bef7927ed",
+    "info": null,
+    "isvisible": true,
+    "kuid": "c9dfd02b20ff4f13b9d2dd143e9fc942",
+    "name": "kony.ui.Button",
+    "parent": "loginScroll",
+    "pf": "loginForm",
+    "wType": "Button",
+    "zindex": 3
+}

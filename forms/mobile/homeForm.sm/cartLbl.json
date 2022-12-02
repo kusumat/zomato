@@ -1,0 +1,65 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "19.42%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s722ad2c0b2c4deeb33619d3216dc505",
+    "_text_": "Order Online",
+    "_top_": {
+        "type": "string",
+        "value": "227dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "37.58%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "cartLbl",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "451f2cf84ff24c0895ca0851ce6b52a1",
+    "name": "kony.ui.Label",
+    "parent": "quickMenuFlex",
+    "pf": "homeForm",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

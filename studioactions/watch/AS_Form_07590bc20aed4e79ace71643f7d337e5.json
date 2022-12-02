@@ -1,0 +1,27 @@
+{
+    "AS_Form_07590bc20aed4e79ace71643f7d337e5": {
+        "id": "AS_Form_07590bc20aed4e79ace71643f7d337e5",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "FormController",
+            "name": "form"
+        }, {
+            "datatype": "AnyObject?",
+            "name": "context"
+        }],
+        "contextObj": {
+            "name": "frmRestaurant",
+            "type": "forms",
+            "platform": "",
+            "KUID": "42fd08c407cb4b34b4cb422569b14c93"
+        },
+        "language": "swift",
+        "actions": [{
+            "id": "ADD_SNIPPET__63da178583714f92b7a414e1ea94a7a3",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "        \n        form.tab3.setNumberOfRows(1, withRowType:\"restaurantTemp\");\n        let nRows = form.tab3.numberOfRows;\n        \n        if(context != nil){\n            var ctx = context as! Dictionary<String, String>;\n            let rowId:String = ctx[\"ResName\"]!;\n            for index in 0...nRows-1{\n                let row = form.tab3.rowControllerAtIndex(index);\n                //print(\" rowController Index: \\(index)  \\(row)\");\n                row!.labelNameTemp!.setText(restaurantData[rowId]![\"lblName\"]);\n                row!.labelAddressTemp!.setText(restaurantData[rowId]![\"lblAddress\"]);\n                row!.imageRestaurantTemp!.setImageNamed(restaurantData[rowId]![\"imgRes\"]);\n                row!.labelRatingTemp!.setText(restaurantData[rowId]![\"lblRating\"]);\n                row!.imageFoodTypeTemp!.setImageNamed(restaurantData[rowId]![\"imgFoodType\"]);\n                row!.labelFoodTypeTemp!.setText(restaurantData[rowId]![\"lblFoodType\"]);\n                row!.imageCostTemp!.setImageNamed(restaurantData[rowId]![\"imgCost\"]);\n                row!.labelCostTemp!.setText(restaurantData[rowId]![\"lblCost\"]);\n                printHello();\n            }\n        }",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

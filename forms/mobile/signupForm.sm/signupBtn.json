@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "18%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s2d17563ec844256b2738bcdc132bcda",
+    "_text_": "Sign up",
+    "_top_": {
+        "type": "string",
+        "value": "60%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sac2823db6ef475aa4c1568f81551af0",
+    "id": "signupBtn",
+    "info": null,
+    "isvisible": true,
+    "kuid": "5e10bd2f23454a0da1c4b0b4902fc8c4",
+    "name": "kony.ui.Button",
+    "parent": "loginFlex",
+    "pf": "signupForm",
+    "wType": "Button",
+    "zindex": 1
+}

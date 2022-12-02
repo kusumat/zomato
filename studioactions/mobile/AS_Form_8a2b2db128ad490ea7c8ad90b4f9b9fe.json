@@ -1,0 +1,24 @@
+{
+    "AS_Form_8a2b2db128ad490ea7c8ad90b4f9b9fe": {
+        "id": "AS_Form_8a2b2db128ad490ea7c8ad90b4f9b9fe",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "contextObj": {
+            "name": "loginForm",
+            "type": "forms",
+            "platform": "",
+            "KUID": "905ec64f9fd64849b36104b742099c3a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___5c0459bbcd2949508291adc3265b3543",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "loginPreShow",
+            "display": "loginPreShow",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "source": "module"
+        }]
+    }
+}

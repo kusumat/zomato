@@ -1,0 +1,51 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "3%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s420c1f3b612413b9b9988306246734d",
+    "_text_": "By creating an account, you agree to Zomato's <a href=\"https://www.zomato.com/terms_mobile.html \" ><u>Terms of Service</u></a>, <a href=\"https://www.zomato.com/privacy\"><u>Privacy Policy</u></a>, and <a href=\"https://www.zomato.com/policies\"><u>Content Policies</u></a>.",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "97%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerId": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "RichText01a7f1185ba2d4b",
+    "info": null,
+    "isSegmentChild": false,
+    "isvisible": true,
+    "kuid": "aa310bb93e564bdc82796c34301b51c2",
+    "name": "kony.ui.RichText",
+    "parent": "FlexContainer0dba70c8d62a24e",
+    "pf": "footerFlex",
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

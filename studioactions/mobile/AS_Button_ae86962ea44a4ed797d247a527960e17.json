@@ -1,0 +1,27 @@
+{
+    "AS_Button_ae86962ea44a4ed797d247a527960e17": {
+        "id": "AS_Button_ae86962ea44a4ed797d247a527960e17",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "homeForm",
+            "type": "forms",
+            "platform": "",
+            "KUID": "99c6e27990fc4cb4b8cadb4740548c9a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___d62209ec4b434ac2aefac775e492e831",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "addButtonMenu",
+            "display": "addButtonMenu",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "source": "module"
+        }]
+    }
+}

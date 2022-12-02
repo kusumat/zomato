@@ -1,0 +1,27 @@
+{
+    "AS_Form_c02dbb4b6e1143c3ad48f61cfa72a051": {
+        "id": "AS_Form_c02dbb4b6e1143c3ad48f61cfa72a051",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "FormController",
+            "name": "form"
+        }, {
+            "datatype": "AnyObject?",
+            "name": "context"
+        }],
+        "contextObj": {
+            "name": "frmHotelList",
+            "type": "forms",
+            "platform": "",
+            "KUID": "4876cd07147442b996b25fdba7f7c0db"
+        },
+        "language": "swift",
+        "actions": [{
+            "id": "ADD_SNIPPET__862f7589b54a4aecb1daa438c03a3531",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "\t\tform.setTitle(presentCategory);\t\n\t\tlet nRows = hotelListData[presentCategory]!.count;\n        form.tab2.setNumberOfRows(nRows, withRowType:\"hotelListTemp\");\n\t\tif(context != nil){\n            var ctx = context as! Dictionary<String, Int>;\n            let rowIndex:Int = ctx[\"rowIndex\"]!;\n            for index in 0...nRows-1{\n                let row = form.tab2.rowControllerAtIndex(index);\n                //print(\" rowController Index: \\(index)  \\(row)\");\n                \n                row!.labelRestName!.setText(hotelListData[homeListData[rowIndex][\"title\"]!]![index][\"ResName\"]);\n                row!.labelCusineType!.setText(hotelListData[homeListData[rowIndex][\"title\"]!]![index][\"CuisineType\"]);\n                row!.labelRating!.setText(hotelListData[homeListData[rowIndex][\"title\"]!]![index][\"Rating\"]);\n            }\n        }",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

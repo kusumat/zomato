@@ -1,0 +1,69 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "1%"
+    },
+    "_left_": {
+        "type": "number",
+        "value": "1"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_parentReadjusting_": false,
+    "_skin_": "s05428fb0d584b42aa711f3690e26959",
+    "_text_": "",
+    "_top_": {
+        "type": "number",
+        "value": "125"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.label.AndroidLabelProperty",
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "containerweight": 100,
+    "contentalignment": 4,
+    "enabled": false,
+    "id": "horizontalLbl",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "@class": "com.kony.gen.viz.model.component.property.label.IPhoneLabelProperty",
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "ac3417c7a51944479988938b110094bf",
+    "name": "kony.ui.Label",
+    "parent": "bottomLogin",
+    "pf": "loginForm",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

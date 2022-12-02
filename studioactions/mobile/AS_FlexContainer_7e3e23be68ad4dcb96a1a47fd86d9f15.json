@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_7e3e23be68ad4dcb96a1a47fd86d9f15": {
+        "id": "AS_FlexContainer_7e3e23be68ad4dcb96a1a47fd86d9f15",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "contextObj": {
+            "name": "homeForm",
+            "type": "forms",
+            "platform": "",
+            "KUID": "99c6e27990fc4cb4b8cadb4740548c9a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___0f6b49a3957d452c818062745ebea6ff",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmHideMenu",
+            "display": "frmHideMenu",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "source": "module"
+        }]
+    }
+}

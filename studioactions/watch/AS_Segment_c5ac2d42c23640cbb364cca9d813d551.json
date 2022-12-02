@@ -1,0 +1,30 @@
+{
+    "AS_Segment_c5ac2d42c23640cbb364cca9d813d551": {
+        "id": "AS_Segment_c5ac2d42c23640cbb364cca9d813d551",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "FormController",
+            "name": "form"
+        }, {
+            "datatype": "WKInterfaceTable",
+            "name": "table"
+        }, {
+            "datatype": "Int",
+            "name": "rowIndex"
+        }],
+        "contextObj": {
+            "name": "frmHome",
+            "type": "forms",
+            "platform": "",
+            "KUID": "866fdea474574578b5ebb2542789bc96"
+        },
+        "language": "swift",
+        "actions": [{
+            "id": "ADD_SNIPPET__6528ed5a43784aedaaf645789c18f93a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "presentCategory = homeListData[rowIndex][\"title\"]!;\nlet context: [String: Int] = [\"rowIndex\": rowIndex];\nform.pushControllerWithName(\"frmHotelList\", context: context);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

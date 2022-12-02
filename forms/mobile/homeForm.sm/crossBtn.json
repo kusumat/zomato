@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "15%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "68.44%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sa6de2c611f94be0af197ae2d4e0fef9",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "78.05%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "21%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sac2823db6ef475aa4c1568f81551af0",
+    "id": "crossBtn",
+    "ide_onclick": "AS_Button_ab19829453b24591b8a4103f683fbf62",
+    "info": null,
+    "isvisible": true,
+    "kuid": "a4c9c555c42a498a99eb678b5f774e01",
+    "name": "kony.ui.Button",
+    "parent": "quickMenuFlex",
+    "pf": "homeForm",
+    "wType": "Button"
+}

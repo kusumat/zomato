@@ -1,0 +1,53 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_enabled_": false,
+    "_height_": {
+        "type": "string",
+        "value": "45dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        7,
+        0,
+        0,
+        0
+    ],
+    "_parentReadjusting_": false,
+    "_render_": true,
+    "_skin_": "sc5e2ac412254bf7b7f96da8254bd2d7",
+    "_text_": "Drafts",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "containerweight": 100,
+    "contentalignment": 4,
+    "displaytext": true,
+    "focusskin": "sbcdcd898d8b421b843de79e78496633",
+    "id": "CopyButton049f8111b1a1641",
+    "info": null,
+    "isvisible": true,
+    "kuid": "9fe35e79297445958efd6c56ade0d39d",
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "draftsFlex",
+    "pf": "homeForm",
+    "wType": "Button",
+    "widgetalignment": 5
+}

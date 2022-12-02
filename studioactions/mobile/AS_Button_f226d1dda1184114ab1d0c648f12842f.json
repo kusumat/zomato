@@ -1,0 +1,31 @@
+{
+    "AS_Button_f226d1dda1184114ab1d0c648f12842f": {
+        "id": "AS_Button_f226d1dda1184114ab1d0c648f12842f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "signupForm",
+            "type": "forms",
+            "platform": null,
+            "KUID": "4118cfce3f2f4019a9b1ff537a1ae61d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___5931e7c148ad4fdfbbf1e2697eb21aba",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "loginForm",
+            "formKUID": "905ec64f9fd64849b36104b742099c3a",
+            "projectName": "zomato",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

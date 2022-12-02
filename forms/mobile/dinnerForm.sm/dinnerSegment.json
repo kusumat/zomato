@@ -1,0 +1,537 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "addressLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Hitech City, Madhapur"
+            },
+            "cameraBtn": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "cameraImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "greycamera.png"
+            },
+            "cameraLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "51"
+            },
+            "deliveryExpLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "DELIVERY EXPERIENCE"
+            },
+            "detLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "American, Chinese"
+            },
+            "kmsBtn": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "kmsImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "dist1.png"
+            },
+            "kmsLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "50"
+            },
+            "lineLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "a"
+            },
+            "menuBtn": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "menuImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "greymenu.png"
+            },
+            "offlineBtn": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "OFFLINE"
+            },
+            "onlineImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "drafts.png"
+            },
+            "onlineLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Online Payments Available"
+            },
+            "phoneBtn": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "priceLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Rs 1700 for two"
+            },
+            "ratingLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "3.6"
+            },
+            "restImg1": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "rest3.png"
+            },
+            "restImg2": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "rest4.png"
+            },
+            "restImg3": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "rest5.png"
+            },
+            "restImg4": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "rest5.png"
+            },
+            "restImg5": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "rest7.png"
+            },
+            "restaLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Chilli's"
+            },
+            "reviewBtn": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "reviewImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "nib3.png"
+            },
+            "reviewLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "15"
+            },
+            "starImg1": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "star2.png"
+            },
+            "starImg2": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "star2.png"
+            },
+            "starImg3": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "star2.png"
+            },
+            "starImg4": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "star2.png"
+            },
+            "starImg5": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "star3.png"
+            },
+            "telImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "tele.png"
+            }
+        },
+        {
+            "addressLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Forum Sujana Mall"
+            },
+            "cameraBtn": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "cameraImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "greycamera.png"
+            },
+            "cameraLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "22"
+            },
+            "deliveryExpLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "DELIVERY EXPERIENCE"
+            },
+            "detLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Quick Bites > Fast Food, American"
+            },
+            "kmsBtn": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "kmsImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "nib.png"
+            },
+            "kmsLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "100"
+            },
+            "lineLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "a"
+            },
+            "menuBtn": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "menuImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "greymenu.png"
+            },
+            "offlineBtn": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "OFFLINE"
+            },
+            "onlineImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "drafts.png"
+            },
+            "onlineLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Online Payments Available"
+            },
+            "phoneBtn": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "priceLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Rs. 500 for two people"
+            },
+            "ratingLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "4.5"
+            },
+            "restImg1": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "burgerking1.png"
+            },
+            "restImg2": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "burgerking3.png"
+            },
+            "restImg3": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "burgerking4.png"
+            },
+            "restImg4": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "burgerking2.png"
+            },
+            "restImg5": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "burgerking5.png"
+            },
+            "restaLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Burger King"
+            },
+            "reviewBtn": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "reviewImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "nib3.png"
+            },
+            "reviewLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "25"
+            },
+            "starImg1": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "star2.png"
+            },
+            "starImg2": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "star2.png"
+            },
+            "starImg3": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "star2.png"
+            },
+            "starImg4": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "star2.png"
+            },
+            "starImg5": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "star3.png"
+            },
+            "telImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "tele.png"
+            }
+        },
+        {
+            "addressLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Kukatpally, Hyderabad"
+            },
+            "cameraBtn": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "cameraImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "greycamera.png"
+            },
+            "cameraLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "44"
+            },
+            "deliveryExpLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "DELIVERY EXPERIENCE"
+            },
+            "detLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Quick Bites > Biryani"
+            },
+            "kmsBtn": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "kmsImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "nib.png"
+            },
+            "kmsLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "25"
+            },
+            "lineLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "a"
+            },
+            "menuBtn": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "menuImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "greymenu.png"
+            },
+            "offlineBtn": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "OFFLINE"
+            },
+            "onlineImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "drafts.png"
+            },
+            "onlineLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Online Payments Available"
+            },
+            "phoneBtn": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "priceLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Rs.350 for two people"
+            },
+            "ratingLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "4.2"
+            },
+            "restImg1": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "maaooru1.png"
+            },
+            "restImg2": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "maaooru3.png"
+            },
+            "restImg3": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "maaooru4.png"
+            },
+            "restImg4": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "maaooru2.png"
+            },
+            "restImg5": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "maaooru5.png"
+            },
+            "restaLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Maa Ooru Biryani"
+            },
+            "reviewBtn": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "reviewImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "nib3.png"
+            },
+            "reviewLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "35"
+            },
+            "starImg1": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "star2.png"
+            },
+            "starImg2": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "star2.png"
+            },
+            "starImg3": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "star2.png"
+            },
+            "starImg4": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "star3.png"
+            },
+            "starImg5": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "star3.png"
+            },
+            "telImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "tele.png"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "120%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "dinnerSegment",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "b4d083002270466c9633a74601579508",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "detailmealFlex",
+    "pf": "dinnerForm",
+    "retainselection": false,
+    "rowTemplateId": "dd049f0fb21f44c68e7e95e284282ede",
+    "rowcounter": 2,
+    "rowfocusskin": "s8239e35a3684d009ad2ab75a611a4bb",
+    "rowskin": "sfe176c928094523879312d3dc7fa751",
+    "rowtemplate": "templateFlex",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "sd228d9239a14ba5ad6f2ec746f74920",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "64646400",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": true,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "addressLbl": "addressLbl",
+        "cameraBtn": "cameraBtn",
+        "cameraImg": "cameraImg",
+        "cameraLbl": "cameraLbl",
+        "delexpFlex": "delexpFlex",
+        "deliveryExpLbl": "deliveryExpLbl",
+        "detLbl": "detLbl",
+        "expFlex": "expFlex",
+        "kmsBtn": "kmsBtn",
+        "kmsImg": "kmsImg",
+        "kmsLbl": "kmsLbl",
+        "lineLbl": "lineLbl",
+        "menuBtn": "menuBtn",
+        "menuImg": "menuImg",
+        "offlineBtn": "offlineBtn",
+        "onlineImg": "onlineImg",
+        "onlineLbl": "onlineLbl",
+        "otherDetFlex": "otherDetFlex",
+        "paymentsFlex": "paymentsFlex",
+        "phoneBtn": "phoneBtn",
+        "priceLbl": "priceLbl",
+        "ratingLbl": "ratingLbl",
+        "restDetailsFlex": "restDetailsFlex",
+        "restDetailslblFlex": "restDetailslblFlex",
+        "restImg1": "restImg1",
+        "restImg2": "restImg2",
+        "restImg3": "restImg3",
+        "restImg4": "restImg4",
+        "restImg5": "restImg5",
+        "restImgFlex": "restImgFlex",
+        "restaLbl": "restaLbl",
+        "reviewBtn": "reviewBtn",
+        "reviewImg": "reviewImg",
+        "reviewLbl": "reviewLbl",
+        "starImg1": "starImg1",
+        "starImg2": "starImg2",
+        "starImg3": "starImg3",
+        "starImg4": "starImg4",
+        "starImg5": "starImg5",
+        "telImg": "telImg",
+        "templateFlex": "templateFlex"
+    }
+}

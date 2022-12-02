@@ -1,0 +1,30 @@
+{
+    "AS_Form_779342afce0d41f1904289135ebdfd3c": {
+        "id": "AS_Form_779342afce0d41f1904289135ebdfd3c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "FormController",
+            "name": "form"
+        }, {
+            "datatype": "String",
+            "name": "id"
+        }, {
+            "datatype": "[NSObject: AnyObject]",
+            "name": "dict"
+        }],
+        "contextObj": {
+            "name": "frmHome",
+            "type": "forms",
+            "platform": "",
+            "KUID": "866fdea474574578b5ebb2542789bc96"
+        },
+        "language": "swift",
+        "actions": [{
+            "id": "ADD_SNIPPET__66f106bc4f764c90a8f9dda1a9a785fc",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "        print(\"This is remoteNotificationActionHandler- frmHome\");\n        if(id == \"AvailOfferButton\"){\n            print(\"handle AvailOfferButton\");\n            print(\"dict \\(dict)\");\n        }",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

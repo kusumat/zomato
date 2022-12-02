@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "30%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "249dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sac8aaa5ce4246e285474b5d41404f50",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "22dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "7%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sac2823db6ef475aa4c1568f81551af0",
+    "id": "CopyButton05b9e3daba1e64e",
+    "ide_onclick": "AS_Button_348234bcbf434afdb15f7a83e16d441a",
+    "info": null,
+    "isvisible": true,
+    "kuid": "c0e0d90dadf7476d83de833d3e91d86b",
+    "name": "kony.ui.Button",
+    "parent": "dinnertopFlex",
+    "pf": "dinnerForm",
+    "wType": "Button",
+    "zindex": 1
+}

@@ -1,0 +1,27 @@
+{
+    "AS_Button_ab19829453b24591b8a4103f683fbf62": {
+        "id": "AS_Button_ab19829453b24591b8a4103f683fbf62",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "homeForm",
+            "type": "forms",
+            "platform": "",
+            "KUID": "99c6e27990fc4cb4b8cadb4740548c9a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___613d44b56e124a48931f84da7543cc62",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "crossButtonClick",
+            "display": "crossButtonClick",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "source": "module"
+        }]
+    }
+}

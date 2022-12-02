@@ -1,0 +1,31 @@
+{
+    "AS_Button_361232068cae4f1e9153aca768fea4c1": {
+        "id": "AS_Button_361232068cae4f1e9153aca768fea4c1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "homeForm",
+            "type": "forms",
+            "platform": "",
+            "KUID": "99c6e27990fc4cb4b8cadb4740548c9a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___d59fe575b38f41cd8a093196c1e722a5",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "dinnerForm",
+            "formKUID": "d81507022a494b6f93f3461a2cd55e26",
+            "projectName": "zomato",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

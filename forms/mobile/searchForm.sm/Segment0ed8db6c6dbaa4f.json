@@ -1,0 +1,372 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "mealImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "lunch1.png"
+            },
+            "mealLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Lunch"
+            }
+        },
+        {
+            "mealImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "lunch.png"
+            },
+            "mealLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Delivery"
+            }
+        },
+        {
+            "mealImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "rest5.png"
+            },
+            "mealLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Dinner"
+            }
+        },
+        {
+            "mealImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "breakfast.png"
+            },
+            "mealLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Breakfast"
+            }
+        },
+        {
+            "mealImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "drinks1.png"
+            },
+            "mealLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Drinks & Nightlife"
+            }
+        },
+        {
+            "mealImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "cafe.png"
+            },
+            "mealLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Cafes"
+            }
+        },
+        {
+            "mealImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "luxury.png"
+            },
+            "mealLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Luxury Dining"
+            }
+        },
+        {
+            "mealImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "buffet.png"
+            },
+            "mealLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Buffet Places"
+            }
+        },
+        {
+            "mealImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "rest3.png"
+            },
+            "mealLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Chinese Restaurants"
+            }
+        },
+        {
+            "mealImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "dessert.png"
+            },
+            "mealLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Desserts & Bakes"
+            }
+        },
+        {
+            "mealImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "bakery.png"
+            },
+            "mealLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Desserts"
+            }
+        },
+        {
+            "mealImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "biryani.png"
+            },
+            "mealLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Biryani"
+            }
+        },
+        {
+            "mealImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "chat.png"
+            },
+            "mealLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Street Food"
+            }
+        },
+        {
+            "mealImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "southindian.png"
+            },
+            "mealLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "South Indian"
+            }
+        },
+        {
+            "mealImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "lunch1.png"
+            },
+            "mealLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Lunch"
+            }
+        },
+        {
+            "mealImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "lunch.png"
+            },
+            "mealLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Delivery"
+            }
+        },
+        {
+            "mealImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "rest5.png"
+            },
+            "mealLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Dinner"
+            }
+        },
+        {
+            "mealImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "breakfast.png"
+            },
+            "mealLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Breakfast"
+            }
+        },
+        {
+            "mealImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "drinks1.png"
+            },
+            "mealLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Drinks & Nightlife"
+            }
+        },
+        {
+            "mealImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "cafe.png"
+            },
+            "mealLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Cafes"
+            }
+        },
+        {
+            "mealImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "luxury.png"
+            },
+            "mealLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Luxury Dining"
+            }
+        },
+        {
+            "mealImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "buffet.png"
+            },
+            "mealLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Buffet Places"
+            }
+        },
+        {
+            "mealImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "rest3.png"
+            },
+            "mealLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Chinese Restaurants"
+            }
+        },
+        {
+            "mealImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "dessert.png"
+            },
+            "mealLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Desserts & Bakes"
+            }
+        },
+        {
+            "mealImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "bakery.png"
+            },
+            "mealLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Desserts"
+            }
+        },
+        {
+            "mealImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "biryani.png"
+            },
+            "mealLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Biryani"
+            }
+        },
+        {
+            "mealImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "chat.png"
+            },
+            "mealLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Street Food"
+            }
+        },
+        {
+            "mealImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "southindian.png"
+            },
+            "mealLbl": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "South Indian"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": "0%",
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": "0%",
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "027",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "Segment0ed8db6c6dbaa4f",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "acd85d34b5744bc0bf8adb087354e362",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "searchresultsFlex",
+    "pf": "searchForm",
+    "retainselection": false,
+    "rowTemplateId": "bc8ed6d9c5f8408082fd5ce1888abbb2",
+    "rowcounter": 27,
+    "rowfocusskin": "s8239e35a3684d009ad2ab75a611a4bb",
+    "rowskin": "sfe176c928094523879312d3dc7fa751",
+    "rowtemplate": "mealFlex",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": null,
+    "sectionheaderskin": "sd228d9239a14ba5ad6f2ec746f74920",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "b0a9b000",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": true,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "mealFlex": "mealFlex",
+        "mealImg": "mealImg",
+        "mealLbl": "mealLbl"
+    }
+}

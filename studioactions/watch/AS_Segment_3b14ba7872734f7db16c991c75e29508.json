@@ -1,0 +1,36 @@
+{
+    "AS_Segment_3b14ba7872734f7db16c991c75e29508": {
+        "id": "AS_Segment_3b14ba7872734f7db16c991c75e29508",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "FormController",
+            "name": "form"
+        }, {
+            "datatype": "WKInterfaceTable",
+            "name": "table"
+        }, {
+            "datatype": "Int",
+            "name": "rowIndex"
+        }],
+        "contextObj": {
+            "name": "frmHotelList",
+            "type": "forms",
+            "platform": "",
+            "KUID": "4876cd07147442b996b25fdba7f7c0db"
+        },
+        "language": "swift",
+        "actions": [{
+            "id": "ADD_SNIPPET__3a6da404c8d146be878e4ca09f46c4d0",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": null,
+            "parentId": null,
+            "callbackType": null
+        }, {
+            "id": "ADD_SNIPPET__65321d7d9bf941019f65852ead5c1841",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "let context: [String: String] = [\"ResName\": hotelListData[presentCategory]![rowIndex][\"ResName\"]!];\nform.pushControllerWithName(\"frmRestaurant\", context: context);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

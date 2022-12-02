@@ -1,0 +1,14 @@
+{
+  "background_color": "00000000",
+  "bg_type": "one",
+  "border_color": "000000ff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "isDefaultSkin": false,
+  "kuid": "sbd5c750d79c47d69f5226aaa6d10b93",
+  "wType": "Segment",
+  "watchos": {
+    "isForked": true
+  }
+}

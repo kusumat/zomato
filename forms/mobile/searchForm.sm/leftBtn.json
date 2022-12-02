@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "30%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "3%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sf664fd7cf78455bbff99674581af64c",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sac2823db6ef475aa4c1568f81551af0",
+    "id": "leftBtn",
+    "ide_onclick": "AS_Button_15b683941de149f19ddfc9cb9d9409b0",
+    "info": null,
+    "isvisible": true,
+    "kuid": "f8926c2773c14104a8717894f604b9d3",
+    "name": "kony.ui.Button",
+    "parent": "topFlex",
+    "pf": "searchForm",
+    "wType": "Button",
+    "zindex": 1
+}
