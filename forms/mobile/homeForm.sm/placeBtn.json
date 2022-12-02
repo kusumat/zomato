@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "15%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s0fcd7671a1549d5a40ce2d7cd8b6af0",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "16dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "31.03%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": false,
+    "focusskin": "sac2823db6ef475aa4c1568f81551af0",
+    "id": "placeBtn",
+    "info": null,
+    "isvisible": true,
+    "kuid": "642f6a07fb53409b896683e137988a27",
+    "name": "kony.ui.Button",
+    "parent": "topFlex",
+    "pf": "homeForm",
+    "wType": "Button",
+    "zindex": 1
+}

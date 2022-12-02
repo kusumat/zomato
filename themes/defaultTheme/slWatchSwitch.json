@@ -1,0 +1,28 @@
+{
+  "android": {
+    "isForked": true
+  },
+  "background_left_color": "48d874ff",
+  "background_right_color": "ffffff00",
+  "bg_type": "one",
+  "border_color": "000000ff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "font_color": "ffffffff",
+  "font_name": "System",
+  "font_size": 100,
+  "font_style": "normal",
+  "font_weight": "normal",
+  "isDefaultSkin": true,
+  "kuid": "s977742fff7a4fc39941596cd8258beb",
+  "left_font_color": "ffffffff",
+  "right_font_color": "ffffffff",
+  "tabrcandroid": {
+    "isForked": true
+  },
+  "wType": "Switch",
+  "watchos": {
+    "isForked": true
+  }
+}

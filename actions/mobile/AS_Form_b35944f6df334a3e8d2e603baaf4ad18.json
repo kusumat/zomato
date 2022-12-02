@@ -1,0 +1,19 @@
+{
+    "AS_Form_b35944f6df334a3e8d2e603baaf4ad18": {
+        "id": "AS_Form_b35944f6df334a3e8d2e603baaf4ad18",
+        "type": "ACTION_SEQUENCE",
+        "contextObj": {
+            "name": "loginForm",
+            "type": "forms",
+            "platform": "",
+            "KUID": "905ec64f9fd64849b36104b742099c3a"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__49c817f3f5064bed85f9cd13ec8d5c19",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert(\"in init\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

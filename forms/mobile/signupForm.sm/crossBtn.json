@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "70%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "3%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s43a295ed9bd47e79e4d195d9c4250b2",
+    "_text_": "X",
+    "_top_": {
+        "type": "string",
+        "value": "15%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sac2823db6ef475aa4c1568f81551af0",
+    "id": "crossBtn",
+    "info": null,
+    "isvisible": true,
+    "kuid": "d170a867559044c8ade6820f1f4ad7cf",
+    "name": "kony.ui.Button",
+    "parent": "topFlex",
+    "pf": "signupForm",
+    "wType": "Button",
+    "zindex": 1
+}

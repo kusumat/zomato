@@ -1,0 +1,252 @@
+{
+    "android": {
+        "background_color": "00000000",
+        "bg_type": "one",
+        "border_color": "424242ff",
+        "border_style": "plain",
+        "border_type": 0,
+        "border_width": 0,
+        "font_name": "Helvetica",
+        "font_size": 90,
+        "font_weight": "bold",
+        "isForked": true,
+        "text_shadow": {
+            "br": 0,
+            "color": "000000",
+            "nm": 0,
+            "x": 0,
+            "y": 0
+        },
+        "wType": "Label"
+    },
+    "background_color": "00000000",
+    "bg_type": "one",
+    "border_color": "424242ff",
+    "border_style": "plain",
+    "border_type": 0,
+    "border_width": 0,
+    "desktopweb": {
+        "background_color": "00000000",
+        "bg_type": "one",
+        "font_name": "Helvetica",
+        "font_size": 90,
+        "font_weight": "bold",
+        "isForked": true,
+        "text_shadow": {
+            "br": 0,
+            "color": "000000",
+            "nm": 0,
+            "x": 0,
+            "y": 0
+        },
+        "wType": "Label"
+    },
+    "fontSizeInPx": false,
+    "font_color": "000000ff",
+    "font_name": "Helvetica",
+    "font_size": 80,
+    "font_style": "normal",
+    "font_weight": "normal",
+    "ipad": {
+        "background_color": "00000000",
+        "bg_type": "one",
+        "border_color": "424242ff",
+        "border_style": "plain",
+        "border_type": 0,
+        "border_width": 0,
+        "font_name": "Helvetica",
+        "font_size": 90,
+        "isForked": true,
+        "text_shadow": {
+            "br": 0,
+            "color": "000000",
+            "nm": 0,
+            "x": 0,
+            "y": 0
+        },
+        "wType": "Label"
+    },
+    "iphone": {
+        "background_color": "00000000",
+        "bg_type": "one",
+        "border_color": "424242ff",
+        "border_style": "plain",
+        "border_type": 0,
+        "border_width": 0,
+        "font_name": "Helvetica",
+        "font_size": 90,
+        "isForked": true,
+        "text_shadow": {
+            "br": 0,
+            "color": "000000",
+            "nm": 0,
+            "x": 0,
+            "y": 0
+        },
+        "wType": "Label"
+    },
+    "isDefaultSkin": false,
+    "kiosk": {
+        "background_color": "00000000",
+        "bg_type": "one",
+        "border_color": "424242ff",
+        "border_style": "plain",
+        "border_type": 0,
+        "border_width": 0,
+        "font_name": "GenericMonospace",
+        "font_size": 90,
+        "font_weight": "bold",
+        "isForked": true,
+        "wType": "Label"
+    },
+    "kuid": "s486bc6d32fd4657a3493a531231bb79",
+    "spaan": {
+        "background_color": "00000000",
+        "bg_type": "one",
+        "font_name": "Helvetica",
+        "font_size": 90,
+        "font_weight": "bold",
+        "isForked": true,
+        "text_shadow": {
+            "br": 0,
+            "color": "000000",
+            "nm": 0,
+            "x": 0,
+            "y": 0
+        },
+        "wType": "Label"
+    },
+    "spaandroidtablet": {
+        "background_color": "00000000",
+        "bg_type": "one",
+        "font_name": "Helvetica",
+        "font_size": 90,
+        "font_weight": "bold",
+        "isForked": true,
+        "text_shadow": {
+            "br": 0,
+            "color": "000000",
+            "nm": 0,
+            "x": 0,
+            "y": 0
+        },
+        "wType": "Label"
+    },
+    "spaip": {
+        "background_color": "00000000",
+        "bg_type": "one",
+        "font_name": "Helvetica",
+        "font_size": 90,
+        "font_weight": "bold",
+        "isForked": true,
+        "text_shadow": {
+            "br": 0,
+            "color": "000000",
+            "nm": 0,
+            "x": 0,
+            "y": 0
+        },
+        "wType": "Label"
+    },
+    "spaipad": {
+        "background_color": "00000000",
+        "bg_type": "one",
+        "font_name": "Helvetica",
+        "font_size": 90,
+        "font_weight": "bold",
+        "isForked": true,
+        "text_shadow": {
+            "br": 0,
+            "color": "000000",
+            "nm": 0,
+            "x": 0,
+            "y": 0
+        },
+        "wType": "Label"
+    },
+    "spawindowstablet": {
+        "background_color": "00000000",
+        "bg_type": "one",
+        "font_name": "Helvetica",
+        "font_size": 90,
+        "font_weight": "bold",
+        "isForked": true,
+        "text_shadow": {
+            "br": 0,
+            "color": "000000",
+            "nm": 0,
+            "x": 0,
+            "y": 0
+        },
+        "wType": "Label"
+    },
+    "spawinphone8": {
+        "background_color": "00000000",
+        "bg_type": "one",
+        "font_name": "Helvetica",
+        "font_size": 90,
+        "font_weight": "bold",
+        "isForked": true,
+        "text_shadow": {
+            "br": 0,
+            "color": "000000",
+            "nm": 0,
+            "x": 0,
+            "y": 0
+        },
+        "wType": "Label"
+    },
+    "tabrcandroid": {
+        "background_color": "00000000",
+        "bg_type": "one",
+        "border_color": "424242ff",
+        "border_style": "plain",
+        "border_type": 0,
+        "border_width": 0,
+        "font_name": "Helvetica",
+        "font_size": 90,
+        "font_weight": "bold",
+        "isForked": true,
+        "text_shadow": {
+            "br": 0,
+            "color": "000000",
+            "nm": 0,
+            "x": 0,
+            "y": 0
+        },
+        "wType": "Label"
+    },
+    "wType": "Label",
+    "watchos": {
+        "font_name": "Helvetica",
+        "font_size": 90,
+        "font_weight": "bold",
+        "isForked": true
+    },
+    "windows8": {
+        "background_color": "00000000",
+        "bg_type": "one",
+        "border_color": "424242ff",
+        "border_style": "plain",
+        "border_type": 0,
+        "border_width": 0,
+        "font_name": "GenericMonospace",
+        "font_size": 90,
+        "font_weight": "bold",
+        "isForked": true,
+        "wType": "Label"
+    },
+    "winphone8": {
+        "background_color": "00000000",
+        "bg_type": "one",
+        "border_color": "424242ff",
+        "border_style": "plain",
+        "border_type": 0,
+        "border_width": 0,
+        "font_name": "GenericMonospace",
+        "font_size": 90,
+        "font_weight": "bold",
+        "isForked": true,
+        "wType": "Label"
+    }
+}

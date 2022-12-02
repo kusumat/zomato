@@ -1,0 +1,84 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizWatchForm",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        1,
+        0,
+        1,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sbd3444a19e742c184b7ebf8f3fc85ef",
+    "_spacing_": 4,
+    "_title_": "Zomato",
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "tab1"
+    ],
+    "containerweight": 100,
+    "currentLocale": null,
+    "desktopweb": {
+        "needAppMenu": false
+    },
+    "device": "appleWatch42",
+    "displayorientation": 1,
+    "enabledforidletimeout": false,
+    "hideswhenloading": true,
+    "id": "frmHome",
+    "ide_localNotificationActionHandler": "AS_Form_0f7ac3ae2850485cb4dcf60f37311d61",
+    "ide_onAwake": "AS_Form_0232fc4d9b4b462d96673050054beb48",
+    "ide_onInit": "AS_Form_a351e2de65cd48b089372b7d38c2f9c4",
+    "ide_onWillActivate": "AS_Form_1d00951f22c04ff78a1a870786c303ce",
+    "ide_remoteNotificationActionHandler": "AS_Form_779342afce0d41f1904289135ebdfd3c",
+    "info": null,
+    "initdone": false,
+    "inputaccessoryviewtype": {
+        "desktopweb": {
+            "needAppMenu": false
+        },
+        "ipad": {
+            "psp": {
+                "inputAccessoryViewType": 4
+            }
+        },
+        "iphone": {
+            "psp": {
+                "inputAccessoryViewType": 4
+            }
+        }
+    },
+    "ipad": {
+        "psp": {
+            "inputAccessoryViewType": 4
+        }
+    },
+    "iphone": {
+        "psp": {
+            "inputAccessoryViewType": 4
+        }
+    },
+    "isvisible": true,
+    "kuid": "866fdea474574578b5ebb2542789bc96",
+    "layouttype": 4,
+    "name": "kony.ui.Form2",
+    "needappmenu": true,
+    "paddinginpixel": true,
+    "platform": "watchos",
+    "prevDevice": "appleWatch42",
+    "prevPlatform": "watchos",
+    "retainscrollposition": false,
+    "shellCSS": "appleWatch42",
+    "titleBarSkin": "s2ea3ae5a6964e6c9a0fd3d4099f6678",
+    "titlebar": true,
+    "type": 3,
+    "wType": "Form"
+}

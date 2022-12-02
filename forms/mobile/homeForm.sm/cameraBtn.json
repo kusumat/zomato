@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "15%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "68.44%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s9b101cc8e714583b52b18f8f0e23b43",
+    "_text_": "Button",
+    "_top_": {
+        "type": "string",
+        "value": "42.52%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "21%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": false,
+    "focusskin": "sac2823db6ef475aa4c1568f81551af0",
+    "id": "cameraBtn",
+    "info": null,
+    "isvisible": true,
+    "kuid": "7785632b772348a1905b5e972f631838",
+    "name": "kony.ui.Button",
+    "parent": "quickMenuFlex",
+    "pf": "homeForm",
+    "wType": "Button",
+    "zindex": 1
+}

@@ -1,0 +1,70 @@
+{
+    "splashScreen": {
+        "desktop": {
+            "desktopweb": {},
+            "kiosk": {}
+        },
+        "mobile": {
+            "android": {
+                "backgroundColor": "ff0000"
+            },
+            "iphone": {
+                "splashConfig": {
+                    "_skin_": "s975fffdae9c4f8fb35964bf7d9817ff",
+                    "children": [
+                        {
+                            "UIElementType": "Image",
+                            "_height_": {
+                                "type": "string",
+                                "value": "100%"
+                            },
+                            "_left_": {
+                                "type": "string",
+                                "value": "0dp"
+                            },
+                            "_src_": "zomato2.png",
+                            "_top_": {
+                                "type": "string",
+                                "value": "0dp"
+                            },
+                            "_width_": {
+                                "type": "string",
+                                "value": "100%"
+                            },
+                            "contentmode": 0,
+                            "id": "splashImage",
+                            "isvisible": true,
+                            "kuid": "h6463726deb4452fbf9951c4672864c5",
+                            "wType": "Image"
+                        }
+                    ]
+                }
+            },
+            "showLoadingIndicator": false,
+            "spa": {
+                "backgroundColor": "f20000"
+            },
+            "spaan": {},
+            "spaip": {},
+            "spawinphone8": {},
+            "splashImage": "zomato2.png",
+            "winphone8": {}
+        },
+        "tablet": {
+            "android": {},
+            "ipad": {
+                "landscape": {},
+                "splashConfig": {
+                    "_skin_": "s975fffdae9c4f8fb35964bf7d9817ff",
+                    "children": []
+                }
+            },
+            "spa": {},
+            "spaandroidtablet": {},
+            "spaipad": {},
+            "spawindowstablet": {},
+            "windows10": {},
+            "windows8": {}
+        }
+    }
+}

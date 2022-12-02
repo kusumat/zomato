@@ -1,0 +1,53 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "73%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s05ad2b67cbd40beb8b3790a2991ed0f",
+    "_text_": "OFFLINE",
+    "_top_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "17%"
+    },
+    "canUpdateUI": true,
+    "containerId": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "sac2823db6ef475aa4c1568f81551af0"
+    },
+    "displaytext": true,
+    "id": "offlineBtn",
+    "info": null,
+    "isSegmentChild": false,
+    "isvisible": true,
+    "kuid": "ed5ee17362014a7b87560795491cb073",
+    "name": "kony.ui.Button",
+    "parent": "paymentsFlex",
+    "pf": "dinnerTemplate",
+    "wType": "Button",
+    "zindex": 1
+}

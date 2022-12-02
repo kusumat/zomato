@@ -1,0 +1,58 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "8%"
+    },
+    "_left_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sfaf07adc2ac42559dd8618cb2c0d29d",
+    "_top_": {
+        "type": "string",
+        "value": "18.03%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "Image0608acbf062bc4c",
+        "TextField018c41f020d2b4f"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "locationFlex",
+    "info": null,
+    "isvisible": true,
+    "kuid": "362b72f1443c4e2c8c5486b2b59a98fd",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "locationForm",
+    "pf": "locationForm",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

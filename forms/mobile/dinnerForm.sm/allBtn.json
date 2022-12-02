@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s083d6478e424c1fa6bdd5091998e724",
+    "_text_": "All",
+    "_top_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "20%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "sccd9fd9db574d06be2e93b3a84d1457"
+    },
+    "displaytext": true,
+    "id": "allBtn",
+    "info": null,
+    "isvisible": true,
+    "kuid": "dfa12b3976164e0e94e913ea04103231",
+    "name": "kony.ui.Button",
+    "parent": "mealFlex",
+    "pf": "dinnerForm",
+    "wType": "Button"
+}

@@ -1,0 +1,137 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "labelCusineType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Cuisine Type"
+            },
+            "labelRating": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "labelRestName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Restaurant Name"
+            }
+        },
+        {
+            "labelCusineType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Cuisine Type"
+            },
+            "labelRating": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "labelRestName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Restaurant Name"
+            }
+        },
+        {
+            "labelCusineType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Cuisine Type"
+            },
+            "labelRating": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "labelRestName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Restaurant Name"
+            }
+        }
+    ],
+    "_enabled_": true,
+    "_height_": {
+        "type": "string",
+        "value": "120dp"
+    },
+    "_indicator_": "none",
+    "_left_": 0,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_opacity_": 100,
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": 0,
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "tab2",
+    "ide_onRowClick": "AS_Segment_3b14ba7872734f7db16c991c75e29508",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "627848d935b849f5a5fcc8ce737dca46",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "paddinginpixel": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "frmHotelList",
+    "pf": "frmHotelList",
+    "retainselection": false,
+    "rowTemplateId": "b981f448319644c7984e2b3e1b90bc21",
+    "rowcounter": 2,
+    "rowtemplate": "groupHotelList",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "64646400",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 1,
+    "widgetdatamap": {
+        "groupHotelList": "groupHotelList",
+        "groupRating": "groupRating",
+        "labelCusineType": "labelCusineType",
+        "labelRating": "labelRating",
+        "labelRestName": "labelRestName"
+    },
+    "widgetskin": "sd0903da500c4fcd9096a7ee5ff4411a"
+}

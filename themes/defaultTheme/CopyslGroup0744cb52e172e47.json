@@ -1,0 +1,24 @@
+{
+  "background_color": "00000000",
+  "bg_type": "one",
+  "border_color": "000000ff",
+  "border_radius": 6,
+  "border_style": "custom",
+  "border_type": 0,
+  "border_width": 0,
+  "font_color": "000000ff",
+  "font_name": "Arial",
+  "font_size": 100,
+  "font_style": "normal",
+  "font_weight": "normal",
+  "isDefaultSkin": false,
+  "kuid": "sb189630d9af4312890cc0732308b600",
+  "wType": "Group",
+  "watchos": {
+    "background_color": "292429ff",
+    "bg_type": "one",
+    "border_radius": 1,
+    "border_style": "custom",
+    "isForked": true
+  }
+}

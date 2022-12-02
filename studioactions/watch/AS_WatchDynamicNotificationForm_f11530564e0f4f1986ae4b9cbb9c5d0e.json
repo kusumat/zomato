@@ -1,0 +1,29 @@
+{
+    "AS_WatchDynamicNotificationForm_f11530564e0f4f1986ae4b9cbb9c5d0e": {
+        "id": "AS_WatchDynamicNotificationForm_f11530564e0f4f1986ae4b9cbb9c5d0e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "FormController",
+            "name": "form"
+        }, {
+            "datatype": "UILocalNotification",
+            "name": "notifyObj"
+        }, {
+            "datatype": "((WKUserNotificationInterfaceType) -> Void)",
+            "name": "completionHandler"
+        }],
+        "contextObj": {
+            "name": "notiZomato",
+            "type": "notifications",
+            "KUID": "9faf0aed41dc4333a84542d34c81da16"
+        },
+        "language": "swift",
+        "actions": [{
+            "id": "ADD_SNIPPET__a8cdde80ef3d4b9bb46e765cf5b1dcd6",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "print(\"This is local notification callback\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

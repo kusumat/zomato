@@ -1,0 +1,24 @@
+{
+    "AS_Form_ffd8c4818edd43699c89f938ab9ec21e": {
+        "id": "AS_Form_ffd8c4818edd43699c89f938ab9ec21e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "FormController",
+            "name": "form"
+        }],
+        "contextObj": {
+            "name": "frmRestaurant",
+            "type": "forms",
+            "platform": "",
+            "KUID": "42fd08c407cb4b34b4cb422569b14c93"
+        },
+        "language": "swift",
+        "actions": [{
+            "id": "ADD_SNIPPET__d3846ea24ce6409e831492005e16941b",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "print(\"This is onInit of frmRestaurantController\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

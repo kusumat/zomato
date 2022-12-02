@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "32.77%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0.31%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s68ed88c2cde40faba5ba6ade60ada23",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "126dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": false,
+    "focusskin": "s89828816f12491a9f331dfc4f3726ba",
+    "id": "signupBtn",
+    "info": null,
+    "isvisible": true,
+    "kuid": "6826d7c25a5a44bf8ccfed79859de0b5",
+    "name": "kony.ui.Button",
+    "parent": "bottomLogin",
+    "pf": "loginForm",
+    "wType": "Button",
+    "zindex": 2
+}

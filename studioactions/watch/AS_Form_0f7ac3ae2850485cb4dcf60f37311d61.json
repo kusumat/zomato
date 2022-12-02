@@ -1,0 +1,30 @@
+{
+    "AS_Form_0f7ac3ae2850485cb4dcf60f37311d61": {
+        "id": "AS_Form_0f7ac3ae2850485cb4dcf60f37311d61",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "FormController",
+            "name": "form"
+        }, {
+            "datatype": "String",
+            "name": "id"
+        }, {
+            "datatype": "UILocalNotification",
+            "name": "notifyObj"
+        }],
+        "contextObj": {
+            "name": "frmHome",
+            "type": "forms",
+            "platform": "",
+            "KUID": "866fdea474574578b5ebb2542789bc96"
+        },
+        "language": "swift",
+        "actions": [{
+            "id": "ADD_SNIPPET__8bb37a1d596f4b818e64b831c8fe4519",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "print(\"This is localNotificationActionHandler- frmHome\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

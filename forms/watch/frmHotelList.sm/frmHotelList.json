@@ -1,0 +1,68 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizWatchForm",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        1,
+        0,
+        1,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sbd3444a19e742c184b7ebf8f3fc85ef",
+    "_spacing_": 4,
+    "_title_": "Lunch",
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "tab2"
+    ],
+    "containerweight": 100,
+    "currentLocale": null,
+    "desktopweb": {
+        "needAppMenu": false
+    },
+    "device": "appleWatch42",
+    "displayorientation": 1,
+    "enabledforidletimeout": false,
+    "hideswhenloading": true,
+    "id": "frmHotelList",
+    "ide_onAwake": "AS_Form_c02dbb4b6e1143c3ad48f61cfa72a051",
+    "ide_onInit": "AS_Form_c0f8bb806a23420dab0f068c7d12dc39",
+    "ide_onWillActivate": "AS_Form_38514925d7fb4cb79572e7a8cdc8a6b0",
+    "info": null,
+    "initdone": false,
+    "inputaccessoryviewtype": 4,
+    "ipad": {
+        "psp": {
+            "inputAccessoryViewType": 4
+        }
+    },
+    "iphone": {
+        "psp": {
+            "inputAccessoryViewType": 4
+        }
+    },
+    "isvisible": true,
+    "kuid": "4876cd07147442b996b25fdba7f7c0db",
+    "layouttype": 4,
+    "name": "kony.ui.Form2",
+    "needappmenu": true,
+    "paddinginpixel": true,
+    "platform": "watchos",
+    "prevDevice": "appleWatch42",
+    "prevPlatform": "watchos",
+    "retainscrollposition": false,
+    "shellCSS": "appleWatch42",
+    "titleBarSkin": "s2ea3ae5a6964e6c9a0fd3d4099f6678",
+    "titlebar": true,
+    "type": 3,
+    "wType": "Form"
+}

@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "15%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "68.44%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sd2f861e9420401fa5aef3797a12e95c",
+    "_text_": "Button",
+    "_top_": {
+        "type": "string",
+        "value": "59.58%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "21%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": false,
+    "focusskin": "sac2823db6ef475aa4c1568f81551af0",
+    "id": "cartBtn",
+    "info": null,
+    "isvisible": true,
+    "kuid": "8d1b765224e84f69b31f18106bd4d492",
+    "name": "kony.ui.Button",
+    "parent": "quickMenuFlex",
+    "pf": "homeForm",
+    "wType": "Button",
+    "zindex": 1
+}

@@ -1,0 +1,24 @@
+{
+    "AS_Form_1d00951f22c04ff78a1a870786c303ce": {
+        "id": "AS_Form_1d00951f22c04ff78a1a870786c303ce",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "FormController",
+            "name": "form"
+        }],
+        "contextObj": {
+            "name": "frmHome",
+            "type": "forms",
+            "platform": "",
+            "KUID": "866fdea474574578b5ebb2542789bc96"
+        },
+        "language": "swift",
+        "actions": [{
+            "id": "ADD_SNIPPET__9fc1d4e14bf44d118fc9444e52f553e6",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "    print(\"This is onWillAcctivate of frmHomeController\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

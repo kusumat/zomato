@@ -1,0 +1,43 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizGroup",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_opacity_": 100,
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s4dfc2a343c244389ca2ed56b2befe66",
+    "_spacing_": 2,
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "Label04e3b1d3b94714d",
+        "Label046d2920de9d246"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "upperGroup",
+    "info": null,
+    "isvisible": true,
+    "kuid": "ebc659150e814455823d237473371731",
+    "layouttype": 4,
+    "name": "kony.ui.Group",
+    "parent": "glanceZomato",
+    "pf": "glanceZomato",
+    "snapgridsize": 10,
+    "snaptogrid": false,
+    "wType": "Group",
+    "widgetalignment": 1
+}

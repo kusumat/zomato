@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "60%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "27%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s05ad2b67cbd40beb8b3790a2991ed0f",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "15%"
+    },
+    "canUpdateUI": true,
+    "containerId": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sac2823db6ef475aa4c1568f81551af0",
+    "id": "cameraBtn",
+    "info": null,
+    "isSegmentChild": false,
+    "isvisible": true,
+    "kuid": "b0f4844cc98b4b8fbe4a5b7ae93586eb",
+    "name": "kony.ui.Button",
+    "parent": "otherDetFlex",
+    "pf": "dinnerTemplate",
+    "vizProps": {
+        "hide": false
+    },
+    "wType": "Button",
+    "zindex": 6
+}

@@ -1,0 +1,17 @@
+{
+  "background_image": "biryani.png",
+  "bg_type": "image",
+  "border_color": "000000ff",
+  "border_radius": 6,
+  "border_style": "custom",
+  "border_type": 0,
+  "border_width": 0,
+  "font_color": "000000ff",
+  "font_name": "Arial",
+  "font_size": 100,
+  "font_style": "normal",
+  "font_weight": "normal",
+  "isDefaultSkin": false,
+  "kuid": "s9419448781c4993b9ac20f3459eb690",
+  "wType": "Group"
+}
